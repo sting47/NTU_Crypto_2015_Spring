@@ -1,0 +1,7 @@
+How to gen the executable files :
+
+$ make (file_name)
+file name are code1-1.out, code1-2.out, code2-1.out, code2-2.out, code2-2_BG.out, code3-1.out, code3-2.out
+
+For code2-2, I also implement Baby step, Giant step algorithm to solve it.
+But it seems to have some running issue, so you can try code2-2_BG.out if code2-2.out isn't fast enough.
